@@ -1,0 +1,17 @@
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\bin\Debug\net6.0\TimeZoneConverter.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab6\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CopyComplete

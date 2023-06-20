@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLjiXfrisdhQD5lQEylwc7CMjZRE988svMzpIDjXR4q/wWPnPrOxa/Q+uGS7Blc3nK/DeG24SXXdan1PTBOsnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\PR\\PR_LB6\\Lab6\\Lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\timezoneconverter\\6.1.0\\timezoneconverter.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
